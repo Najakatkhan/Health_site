@@ -1,0 +1,397 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.navbar{
+    height: 52px;
+    /* width: 100px; */
+    background-color: black;
+    color: rgb(204, 201, 201);
+    justify-content: space-evenly;
+    display: flex;
+}
+.border{
+    background-image: url(su.jpg);
+    height: 50px;
+    width: 50px;
+    margin-right: 10px;
+    background-size: cover;
+}
+.border{
+    border: 1px solid transparent;
+}
+.border:hover{
+    border: 1px solid rgb(73, 71, 71);
+}
+a{
+    margin-top: 14px;
+
+}
+.img{
+    margin-right: 20px;
+}
+/* this is a first  */
+#main1{
+    height: 27px;
+    width: 360px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 9px;
+    transition: all 1s ease-in 0.2s ;
+
+}
+#main1:hover{
+    background-color: #f18930;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+} 
+/* this is second */
+#main2{
+    height: 27px;
+    width: 360px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 9px;
+    transition: all 1s ease-in 0.2s ;  
+}
+#main2:hover{
+    background-color: #f18930;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+} 
+/* this is a third */
+#main3{
+    height: 27px;
+    width: 360px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 9px;
+    transition: all 1s ease-in 0.2s ;
+
+   
+}
+#main3:hover{
+    background-color: #f18930;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+} 
+/* this is a forth */
+#main4{
+    height: 27px;
+    width: 360px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 9px;
+    transition: all 1s ease-in 0.2s ;
+
+   
+}
+#main4:hover{
+    background-color: #f18930;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+} 
+/* this is a fifth */
+#main5{
+    height: 27px;
+    width: 360px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 9px;
+    transition: all 1s ease-in 0.2s ;
+
+   
+}
+#main5:hover{
+    background-color: #f18930;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+} 
+/* this is a six */
+#main6{
+    height: 27px;
+    width: 360px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 8px 8px 8px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 9px;
+    transition: all 1s ease-in 0.2s ;
+
+   
+}
+#main6:hover{
+    background-color: #f18930;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+} 
+#boxs{
+    display: flex;
+}
+#box1{
+    background-image: url(gym4.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 380px;
+    margin: 8px 8px 8px 8px;
+    border-radius: 5px;
+    border: 5px solid black; 
+} 
+#box1:hover{
+    /* background-color: red; */
+    background-image: url(kid1.jpg);
+    background-size: cover;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+    transition: all 1s ease-in 0.2s ;
+
+} 
+  #box2{
+    background-image: url(gym3.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 380px;
+    background-color: #f18930;
+    margin: 8px  8px 5px 5px;
+    border-radius: 5px;
+    border: 5px solid black;
+
+}  
+ #box2:hover{
+    background-image: url(Nature.avif);
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+    transition: all 1s ease-in 0.2s ;
+
+}   
+ #box3{
+    background-image:url(gym5.jpg) ;
+    background-size: cover;
+    height: 350px;
+    width: 380px;
+    margin: 8px 8px 8px 8px;
+    border-radius: 5px;
+    border: 5px solid black;
+
+} 
+#box3:hover{
+    background-image: url(kid5.jpg);
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+    transition: all 1s ease-in 0.2s ;
+
+} 
+#box4{
+    background-image: url(gym6.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 380px;
+    background-color: #f18930;
+    margin: 8px 8px 8px 8px;
+    border-radius: 5px;
+    border: 5px solid black;
+
+} 
+#box4:hover{
+    background-image: url(kid3.jpg);
+    background-size: cover;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+    transition: all 1s ease-in 0.2s ;
+
+}  
+#box5{
+    background-image: url(gym7.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 380px;
+    background-color: #f18930;
+    margin: 8px 8px 8px 8px;
+    border-radius: 5px;
+    border: 5px solid black;
+
+}  
+#box5:hover{
+    background-image: url(kid6.jpg);
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+    transition: all 1s ease-in 0.2s ;
+
+}  
+ #box6{
+    background-image: url(gym8.jpg);
+    background-size: cover;
+    height: 350px;
+    width: 380px;
+    margin: 8px 8px 8px 8px;
+    border-radius: 5px;
+    border: 2px solid black;
+
+} 
+#box6:hover{
+    background-image: url(kid4.jpg);
+    background-size: cover;
+    color: black;
+    text-transform: uppercase;
+    border: 2px solid black;
+    transition: all 1s ease-in 0.2s ;
+
+}   
+
+#maingym{
+    height: 185px;
+    width: 370px;
+    background-color: rgb(73, 37, 23);
+    border-radius: 5px;
+    margin: 8px 10px 8px 9px;
+    color: rgb(157, 151, 151);
+    text-align: center;
+    padding: 5px;
+    transition: all 1s ease-in 0.2s ;
+    border-top:8px solid black ;
+    border-bottom: 8px solid black;
+}
+.gym{
+    display: flex;
+} 
+#gym1{
+    background-image: url(gym.jpg);
+    background-size: cover;
+    margin-top: 15px;
+    padding: 20px 20px 20px 20px;                                                                    
+    text-size-adjust: 12px;
+    height: 350px;
+    width: 370px;
+    background-color:rgb(217, 213, 213);
+    margin-left: 8px;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+#gym2{
+    background-image: url(gym2.jpg);
+    background-size: cover;
+    margin-top: 15px;
+    padding: 20px 20px 20px 20px;
+    text-size-adjust: 12px;
+    height: 250px;
+    width: 550px;
+    background-color:rgb(217, 213, 213);
+    margin-left: 8px;
+    border-radius: 5px;
+    border: 2px solid black;
+}  
+/* this is s footer? */
+footer{
+    background: #8e8b8b;
+    padding-top: 50px;
+}
+.container{
+    width: 1140px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+.footer-content{
+    width: 33.3%;
+}
+h3{
+    font-size: 28px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.footer-content p{
+    width:190px;
+    margin: auto;
+    padding: 7px;
+}
+.footer-content ul{
+    text-align: center;
+}
+.list{
+    padding: 0;
+}
+.list li{
+    width: auto;
+    text-align: center;
+    list-style-type:none;
+    padding: 7px;
+    position: relative;
+}
+.list li::before{
+    content: '';
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 100%;
+    width: 0;
+    height: 2px;
+    background: #f18930;
+    transition-duration: .5s;
+} 
+.list li:hover::before{
+    width: 70px;
+}
+.social-icons{
+    text-align: center;
+    padding: 0;
+}
+.social-icons li{
+    display: inline-block;
+    text-align: center;
+    padding: 5px;
+    color: white;
+}
+.social-icons i{
+    color: white;
+    font-size: 25px;
+}
+a{
+    text-decoration: none;
+}
+ a:hover{
+    color: #f18930;
+}
+ .social-icons i:hover{
+    color: #f18930; 
+} 
+.bottom-bar{
+    background: #d88e4d;
+    text-align: center;
+    padding: 10px 0;
+    margin-top: 50px;
+} 
+.bottom-bar p{
+    color: #343434;
+    margin: 0;
+    font-size: 16px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+}
+
